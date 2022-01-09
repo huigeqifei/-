@@ -7,7 +7,7 @@ https://u.jd.com/SLMR0ZU
 跳转到app 可查看助力情况
 */
 
-let rebateCodes = ''
+let rebateCodes = 'SKiZf8e'
 
 const $ = new Env('2022年年货节京享红包活动🧧');
 const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
